@@ -1,0 +1,19 @@
+**/target/
+/target/
+*/target/*
+.project
+/bin/
+.classpath
+.settings
+
+# Package Files #
+*.jar
+*.war
+*.ear
+
+*.iml
+*.idea
+*.mvn
+*.md
+*.cmd
+/mvnw
